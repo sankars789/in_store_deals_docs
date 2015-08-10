@@ -1,5 +1,6 @@
-The Idea
-------------------
+Idea backgorund - The Existing online deaal sites
+-------------------------------------------------
+`Edit this doc online <http://rst.ninjs.org/?n=f0e6feca00981edc15419bf42d141a25&theme=basic>`_
 All discounts and Deals at one place
 ************************************
 `There are many sites on the net which show all the discounts from eretailers in one place. Make them searchable and accessible to price conscious consumers who like deals and discounts. But the same kind of service is not available for the offline or in-store deals and discounts. I guess the following are the reasons`
