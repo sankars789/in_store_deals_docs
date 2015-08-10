@@ -19,3 +19,25 @@ offline deals disadvantages
 ***************************
   1. too many interfaces and no api support.
   2. difficult to earn referral bonus.
+
+
+offline deals disadvantages
+***************************
+  1. too many interfaces and no api support.
+  2. difficult to earn referral bonus.
+
+Our Idea
+--------
+ `To bring all offline discounts and deals to online just like the online discount sites.`
+
+challenges - our approach
+*************************
+1. Product data - use webscraper 
+2. Store data - build very simple publishing system for each store
+3. Referral bonus - right now focus on reaching consumers, later plan for revenue from,
+
+   - Ads
+   - Referral
+   - Analytic data
+
+
