@@ -1,5 +1,5 @@
-Idea backgorund - The Existing online deaal sites
--------------------------------------------------
+Idea backgorund - The Existing online discount sites
+-----------------------------------------------------
 
 `Edit this doc online <http://rst.ninjs.org/?n=f0e6feca00981edc15419bf42d141a25&theme=basic>`_
 
@@ -37,4 +37,12 @@ challenges - our approach
    - Referral
    - Analytic data
 
+
+Proposed Features
+*****************
+1. A discounts guide that tells you why the price is marked down.
+
+   - Also a rating for each discount which tells whether discount is good or not
+
+2. Like/dislike and comments on each item and over all sale.
 
