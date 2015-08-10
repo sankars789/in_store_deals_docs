@@ -1,7 +1,7 @@
 Idea backgorund - The Existing online discount sites
 -----------------------------------------------------
 
-`Edit this doc online <http://rst.ninjs.org/?n=f0e6feca00981edc15419bf42d141a25&theme=basic>`_
+`Edit this doc online <http://rst.ninjs.org/?n=59fa956d9bb5fd519021e46c7947135d&theme=basic>`_
 
 All discounts and Deals at one place
 ************************************
