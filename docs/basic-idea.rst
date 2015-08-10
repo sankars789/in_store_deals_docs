@@ -38,11 +38,40 @@ challenges - our approach
    - Analytic data
 
 
-Proposed Features
-*****************
-1. A discounts guide that tells you why the price is marked down.
 
-   - Also a rating for each discount which tells whether discount is good or not
+Discounts Guide
+***************
 
-2. Like/dislike and comments on each item and over all sale.
+ A discounts guide that tells you why the price is marked down.
+
+***************
+1. Deal Rating
+***************
+   Also a rating for each discount which tells whether discount is good or not
+
+*************************
+2. Use Likes and Comments
+*************************
+ Like/dislike and comments on each item and over all sale.
+
+
+**********************
+3. Reserve item
+**********************
+  User can reserve an item for a day or 2 days and collect it from the store.
+
+***************
+4. Wish List
+***************
+ User can make a wish list for an item at a certain price or discount percentage and we will send alerts 
+
+*************************************
+5. *Location based Discount alerts*
+*************************************
+  User will get alerts when he is near a store which matches his wish list. This is the most important feature.
+
+
+
+
+
 
