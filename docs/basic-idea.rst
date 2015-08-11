@@ -48,10 +48,12 @@ challenges - our approach
    - Referral
    - Analytic data
 
+Our unique features
+====================
 
-
-Discounts Guide
-***************
+****************************
+0. Discounts Guide
+****************************
 
  A discounts guide that tells you why the price is marked down.
 
@@ -80,6 +82,13 @@ Discounts Guide
 5. *Location based Discount alerts*
 *************************************
   User will get alerts when he is near a store which matches his wish list. This is the most important feature.
+
+******************************************
+6. Offline and Online price comparison
+******************************************
+  Compare the price offline, if the prod is avail online, show the comparison and give the customer a reason to visit the 
+  store.
+
 
 
 
