@@ -8,9 +8,20 @@ All discounts and Deals at one place
 `There are many sites on the net which show all the discounts from eretailers in one place. Make them searchable and accessible to price conscious consumers who like deals and discounts. But the same kind of service is not available for the offline or in-store deals and discounts. I guess the following are the reasons`
 
 sample sites
+***************
+1. Item level discount details
+==============================
 
 - `cashkaro => all discounts <http://cashkaro.com>`_
 - `findyogi => only for mobiles <http://findyogi.com>`_
+
+2. All coupons with out item info
+==================================
+
+- `cupondunia - All cupons <http://www.coupondunia.in/>`_
+- `savemyrupee - All cupons <http://www.savemyrupee.com/>`_
+  It has wish list, if you give an item, they will find lowest price for you
+   
 
 
 online deals advantage
