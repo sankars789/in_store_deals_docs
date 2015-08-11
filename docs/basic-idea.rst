@@ -10,13 +10,13 @@ All discounts and Deals at one place
 sample sites
 ***************
 1. Item level discount details
-==============================
+******************************
 
 - `cashkaro => all discounts <http://cashkaro.com>`_
 - `findyogi => only for mobiles <http://findyogi.com>`_
 
 2. All coupons with out item info
-==================================
+**********************************
 
 - `cupondunia - All cupons <http://www.coupondunia.in/>`_
 - `savemyrupee - All cupons <http://www.savemyrupee.com/>`_
