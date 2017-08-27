@@ -12,6 +12,7 @@ sample sites
 1. Item level discount details
 ******************************
 
+- `Best Coupon Codes => Indepath Product Category Level Discounts <https://www.bestcouponcodes.in/>`_
 - `cashkaro => all discounts <http://cashkaro.com>`_
 - `findyogi => only for mobiles <http://findyogi.com>`_
 
